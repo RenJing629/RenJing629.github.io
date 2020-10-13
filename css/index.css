@@ -1,0 +1,10 @@
+body{
+    /* background: url('../image/bg.jpg') no-repeat;
+    background-size: 100%; */
+}
+
+.head{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
